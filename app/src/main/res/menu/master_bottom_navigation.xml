@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/home"
+        android:id="@+id/beranda"
+        android:icon="@drawable/ic_home"/>
+    <item android:title="@string/maps"
+        android:id="@+id/maps"
+        android:icon="@drawable/ic_maps"/>
+    <item android:title="@string/profiles"
+        android:id="@+id/profile"
+        android:iconTint="#585858"
+        android:icon="@drawable/ic_user_blk"/>
+</menu>
